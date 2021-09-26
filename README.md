@@ -1,4 +1,5 @@
-### Hi there! 👋👋👋
+# Hi there! 👋👋👋
+
 
 🧑‍🎓💻 Bachelor of Information Technology, Computer Software Engineering (2013 – 2017)
 
