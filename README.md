@@ -3,7 +3,7 @@
 
 🧑‍🎓💻 Bachelor of Information Technology, Computer Software Engineering (2013 – 2017)
 
-👨‍💻 Full Stack Software Engineer
+👨‍💻 Java Software Engineer
 
 📪 📧 You can contact me: marjanovicbrane93@gmail.com
 
